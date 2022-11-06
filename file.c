@@ -8,6 +8,8 @@ int main() {
 
 	printf("inca nu am vazut dar este ceva schimbari in ghit hub");
 	printf("am vazut shimbari in github si mai fac una");
+am pus o eroare
+
 
 
 
